@@ -7,4 +7,4 @@ def personal_best(scores):
 
 
 def personal_top_three(scores):
-    return sorted(scores)[::-1][0:2]
+    return sorted(scores)[::-1][0:3]
